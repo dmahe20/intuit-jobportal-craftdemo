@@ -42,6 +42,10 @@ You may also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Installed React Testing Library
+- Installed Jest
+- Installed Babel Dependencies
+- Configure babel.config.js
 
 ### `npm run build`
 
