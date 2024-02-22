@@ -1,3 +1,27 @@
+intuit-jobportal-craftdemo
+Job Portal is a Frontend based web app which helps in streamlining the flow of job application process. Where people can view/ post jobs to be performed. Includes two sections to this portal: Freelancer,Employer.
+
+ Details of Project - 
+ Login Page with different employer/ freelancer sections.
+ Freelancer Section - 
+ 1) User should be able to select skills matching to his profile.
+ 2) Should be able to see all posted jobs by the Employer/Recruiter.
+ 3) Should be able to filter jobs by skill.
+ 4) Quick-Apply to a job with a single click.
+
+ Employer Section -
+ 1) Displays a form collecting the following data points:
+ o Job description document with maximum length of 16KB.
+ o Job requirements.
+ o Tags relevant to the job.
+ o Company Name and contact info of the job poster.
+ 2) View his jobs posted by individual Recruiter.
+ 3) Displays the number of applications on that job.
+ 4) Ability to see the user profile of the job applicant.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
