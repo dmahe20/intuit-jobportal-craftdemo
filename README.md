@@ -2,8 +2,8 @@ Intuit-Job Portal
 Job Portal is a Frontend based web app which helps in streamlining the flow of job application process. Where people can view/ post jobs to be performed. Includes two sections to this portal: Freelancer,Employer.
 
  Details of Project - 
- Login Page with different employer/ freelancer sections.
-  Freelancer Section - 
+   Login Page with different employer/ freelancer sections.
+   Freelancer Section - 
  1) User should be able to select skills matching to his profile.
  2) Should be able to see all posted jobs by the Employer/Recruiter.
  3) Should be able to filter jobs by skill.
