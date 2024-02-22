@@ -3,7 +3,7 @@ Job Portal is a Frontend based web app which helps in streamlining the flow of j
 
  Details of Project - 
  Login Page with different employer/ freelancer sections.
- Freelancer Section - 
+  Freelancer Section - 
  1) User should be able to select skills matching to his profile.
  2) Should be able to see all posted jobs by the Employer/Recruiter.
  3) Should be able to filter jobs by skill.
